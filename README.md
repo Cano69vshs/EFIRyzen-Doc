@@ -1,6 +1,3 @@
-# EFIRyzen-Doc
-EFIRyzen Doc   Website for Guide for create Openocre EFI , for Installing, Postinstall and , treiks and tips for Perfect and Best Optimizacion for Mejor rendimiento  ,  tendiendo  a la mejor xperiencia de  el sistema  macos
-
 
 
 <h1 align="center"> HP- AMD Ryzen 3 3300UAMD Radeon  Vega 6 Graphics </h1>
@@ -12,6 +9,12 @@ EFIRyzen Doc   Website for Guide for create Openocre EFI , for Installing, Posti
 
 </p>
 <h4 align="center"> OpenCore config for Hackintosh Ryzentosh AMD Radeon HP AMD Ryzen 3  3300U Vega 6 Graphics  </h4>
+
+
+EFIRyzen-Doc
+El sitio web EFIRyzen Doc se presenta como una guía integral para la creación de un entorno EFI OpenCore. Este recurso abarca aspectos fundamentales como la instalación, el postinstalado, así como trucos y consejos orientados a lograr una optimización óptima del rendimiento. Su objetivo es proporcionar a los usuarios la mejor experiencia posible en el sistema operativo macOS.
+
+
 
 # Kexts
 
